@@ -160,6 +160,5 @@ I'm always open to discussing new opportunities, collaborating on projects, or j
   
 ### 💡 "Building secure, scalable IT solutions one project at a time"
 
-![Visitor Count](https://profile-counter.glitch.me/MahmoudNoureddine/count.svg)
 
 </div>
