@@ -144,17 +144,6 @@ Junior IT professional with hands-on experience in **help desk support**, **syst
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudNoureddine&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudNoureddine&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
