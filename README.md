@@ -1,100 +1,68 @@
-# 🛡️ Mahmoud Noureddine Mahmoud - Cybersecurity Portfolio
+
+
+
+# Hi, I'm Mahmoud Noureddine 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/mahmoud-noureddine-a66714365)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mahmoudnourdein@gmail.com)
 
-## 👋 About Me
 
-Aspiring SOC Analyst with hands-on experience in penetration testing, SIEM operations, and security automation. Currently completing Network Technician certification with a SOC internship starting January 2026. Passionate about building practical cybersecurity skills through self-directed learning and home lab projects.
+### Junior IT Support Specialist | System Administrator | Cloud Enthusiast
 
-**🎯 Current Focus:**
-- Building comprehensive SOC automation infrastructure
-- Preparing for CCNA and ISC2 CC certifications
-- Developing security automation tools with Python and Bash
-
-## 🔧 Technical Skills
-
-### Security Operations
-- **SIEM:** Splunk
-- **SOAR:** Shuffle
-- **Incident Response:** TheHive
-- **Threat Intelligence:** Cortex
-
-### Penetration Testing
-- Network Reconnaissance & Enumeration
-- Vulnerability Assessment
-- Service Exploitation (FTP, SSH, SMB, SQL)
-- Traffic Analysis with Wireshark
-
-### Programming & Scripting
-- Python (Security Automation, Network Administration)
-- Bash Scripting
-- PowerShell
-- SQL, HTML, CSS
-
-### Security Tools
-- Nmap, Metasploit, Burp Suite
-- Hydra, OWASP ZAP, Nessus
-- Kali Linux, Wireshark
-
-### Cloud & Systems
-- AWS (IAM, S3, EC2, VPC, CloudTrail)
-- Linux (Ubuntu, Kali, Rocky)
-- Windows Server
-
-## 📂 Projects
-
-### 🎯 SecureNet AB - Network Penetration Testing Lab
-Built multi-server home lab (Ubuntu, Rocky Linux) and conducted penetration tests on FTP, SSH, SMB, SQL services using Nmap, Metasploit, and Hydra. Analyzed traffic with Wireshark and documented vulnerabilities with remediation steps.
-
-**Tools:** Kali Linux, Nmap, Metasploit, Hydra, Wireshark
+[cite_start]Junior IT professional with a focus on system administration, cloud technologies, and security monitoring[cite: 5, 8]. [cite_start]I specialize in building and managing enterprise-grade environments through hands-on home labs and cloud deployments[cite: 24, 30].
 
 ---
 
-### 🔍 ThreatOps Hub - SOC Automation Lab
-Integrated Splunk SIEM, Shuffle, TheHive, and Cortex for automated incident response. Configured log collection, created detection playbooks, and developed Python scripts for security automation.
+## 🛠 Technical Skills
 
-**Tools:** Splunk, Shuffle, TheHive, Cortex, Python
-
----
-
-### 🔒 NetSecure Infrastructure - Network Security Hardening Lab
-Implemented firewall rules for network segmentation and deployed IDS/IPS for threat detection. Configured network monitoring with Wireshark and developed Python/Bash scripts for automated log analysis.
-
-**Tools:** Firewall, IDS/IPS, Wireshark, Python, Bash
-
----
-
-### ⚙️ SecOps Automation Suite - Python & Bash Security Scripts
-Developed Python and Bash scripts for network administration, security automation, vulnerability scanning, and log analysis. Built tools integrating with Splunk and other security platforms.
-
-**Tools:** Python, Bash, PowerShell
-
-## 🎓 Certifications
-
-- ✅ **Google Cybersecurity Professional Certificate** (2024)
-- ✅ **AWS Cloud Technology Consultant Professional Certificate** (2024)
-- 🔄 **Cisco Certified Network Associate (CCNA)** - In Progress
-- 🔄 **ISC2 Certified in Cybersecurity (CC)** - In Progress
-
-## 📚 Education
-
-- **Network Technician Certification** - Expected April 2026
-- **Full-stack Developer Bootcamp** - Beirut, Lebanon
-- **Marketing Studies** - Arab Open University, Beirut
-
-## 💼 Upcoming Experience
-
-**SOC Analyst Internship** | January 2026 - March 2026  
-10-week hands-on Security Operations Center internship focusing on threat detection, incident response, and security monitoring.
-
-## 📫 Get In Touch
-
-- 📧 Email: mahmoudnourdein@gmail.co
-- 🌐 Location: Stockholm, Sweden
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Operating Systems** | [cite_start]Windows Server (2016-2022), Linux (Ubuntu, Kali, Rocky), macOS [cite: 10] |
+| **Cloud & Virtualization** | [cite_start]AWS (EC2, S3, IAM, VPC), Azure, VMware, Hyper-V [cite: 13] |
+| **Microsoft 365** | [cite_start]Entra ID, Intune, SharePoint, Teams, Exchange, PowerShell [cite: 11] |
+| **Networking** | [cite_start]TCP/IP, DNS, DHCP, VPN, pfSense, Wireshark, Cisco [cite: 12] |
+| **Security & SIEM** | [cite_start]Splunk, Wazuh, TheHive, Shuffle SOAR, Nmap, Metasploit [cite: 14, 26] |
+| **ITSM & Support** | [cite_start]Ticketing Systems, Remote Desktop, Active Directory, RBAC [cite: 15, 38] |
 
 ---
 
-⭐ **If you find my projects interesting, feel free to connect!**
+## 🚀 Featured Technical Projects
 
-*Last Updated: November 2025*
+### [Enterprise IT Support & Administration Lab](https://github.com/yourusername/M365-AD-Lab)
+* [cite_start]**Hybrid Identity:** Implemented hybrid identity synchronization between on-premises **Active Directory** (Windows Server 2022) and **Entra ID** using Azure AD Connect[cite: 32, 34].
+* [cite_start]**Endpoint Management:** Configured **Microsoft Intune** for MDM/MAM, including device enrollment and compliance policies[cite: 36].
+* [cite_start]**Security Posture:** Deployed MFA and **Conditional Access** policies to secure the tenant[cite: 37].
+* [cite_start]**Collaboration:** Architected **SharePoint Online** sites with custom permission management and document libraries[cite: 35].
+
+### [Security Monitoring & SOC Lab](https://github.com/yourusername/SOC-Lab)
+* [cite_start]**SIEM Deployment:** Configured **Splunk** for centralized log management across Windows and Linux endpoints[cite: 25, 27].
+* [cite_start]**SOAR Automation:** Integrated **Shuffle SOAR**, **TheHive**, and **Cortex** to automate incident response workflows[cite: 26].
+* [cite_start]**Threat Detection:** Created alerting rules for suspicious activities and documented formal incident response playbooks[cite: 27, 28].
+
+### [Network Security & Hardening Lab](https://github.com/yourusername/Network-Security)
+* [cite_start]**Vulnerability Assessment:** Used **Nmap** and **Wireshark** to identify misconfigurations and diagnose connectivity issues[cite: 42, 43].
+* [cite_start]**System Hardening:** Secured Linux servers (Ubuntu/Rocky) running FTP, SSH, and SQL services[cite: 40, 41].
+
+---
+
+## 💼 Professional Experience
+
+**Cloud & Software Intern** | Nation Enterprises AB (Stockholm) | [cite_start]*Mar 2026* [cite: 19]
+* [cite_start]Managed **AWS** cloud resources including IAM and EC2 instances[cite: 20].
+* [cite_start]Contributed to backend automation and deployment tasks for the nation.dev platform[cite: 21, 22].
+
+---
+
+## 🎓 Education & Certifications
+
+* [cite_start]**Network Technician Certification** – Jensen Skolan, Stockholm (Expected Mar 2026) [cite: 46]
+* [cite_start]**Google Cybersecurity** Professional Certificate [cite: 47]
+* [cite_start]**AWS Cloud Technology Consultant** Professional Certificate [cite: 48]
+* [cite_start]**In Progress:** CCNA (Cisco Certified Network Associate) [cite: 50]
+
+---
+
+## 📫 Connect with Me
+* [cite_start]**Email:** [mahmoudnourdein@gmail.com](mailto:mahmoudnourdein@gmail.com) 
+* [cite_start]**LinkedIn:** [Your LinkedIn Profile Link] 
+* [cite_start]**Portfolio:** [Link to your website]
